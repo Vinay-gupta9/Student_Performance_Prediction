@@ -1,6 +1,12 @@
 # Student_Performance_Prediction
-This data set consists of the marks secured by the students in various subjects.
+This data set consists of the marks secured by the students in various subjects. QnA Approach is carried to explore and find insight of this data.
+### Library Used
 
+Numpy <br>
+Pandas <br>
+Matplotlib <br>
+Seaborn <br>
+Scipy  <br>
 ### Feature Classification
 It is good practice to categorize the numerical and categorical variables. <br>
 We use histograms to observe how the scores of students are distributed.
